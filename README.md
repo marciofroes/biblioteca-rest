@@ -1,4 +1,4 @@
- # API REST - Administracao Biblioteca
+ # API REST - Biblioteca
 Projeto de gerenciamento de Biblioteca em API.
 
 Projeto desenvolvido em Spring Boot com Spring Data JPA e Banco de Dados MySql.
